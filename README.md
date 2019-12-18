@@ -1,10 +1,12 @@
 # Template Repository for Unity3D version 2019.1.14f1
 
 ### Project description: 
-Introduction/Project summary 
+
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity 20191.14f1
+Mac OS High Sierra
+Visual Studio 2019 for Mac
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
@@ -19,10 +21,11 @@ Installation process, e.g. step by step instructions that I can run the project 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+5%
+Projekt erstellt und angelegt. Auf Git Hub gecloned
 
 ### Limitations: 
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Adrian Frizberg
