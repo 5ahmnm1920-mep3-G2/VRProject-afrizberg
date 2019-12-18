@@ -2,6 +2,12 @@
 
 ### Project description: 
 
+Ein VR Spiel in dem man Laender zuordnen muss. 
+#### Beschreibung des Spiels: 
+Ein großer Raum, in dem sich ein schwebender Globus befindet.
+Der Globus dreht sich ganz langsam um sich selbst. Auf einer der weißen Wände erscheint ein Land in Form eines Wortes. Z.B Deutschland, Sri Lanka, Brasilien.
+Es können alle möglichen Länder der Welt vorkommen. Man muss dann den richtigen Ort finden. Dazu zielt man mit einem Strahl irgendwo auf den Globus. Bleibt man mindestens drei Sekunden auf einem Wort stehen, so wird die Antwort eingeloggt. Die Wände scheinen dann bei korrekter Antwort in grün und bei inkorrekter Antwort in rot auf. Wenn man den Ort richtig bestimmt hat, kommt man zum nächsten Begriff. Man kann den Globus auch mit dem anderen Controller in die Hand nehmen, ihn anschauen und ihn wo anders wieder absetzen.
+Man kann sich im Raum rund um den Globus teleportieren.
 
 ### Development platform: 
 Unity 20191.14f1
