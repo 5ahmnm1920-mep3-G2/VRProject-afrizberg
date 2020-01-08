@@ -32,6 +32,6 @@ Projekt erstellt und angelegt. Auf Git Hub gecloned
 
 ### Limitations: 
 
-### Lessons Learned: 
+## Lessons Learned: 
 
 Copyright by Adrian Frizberg
