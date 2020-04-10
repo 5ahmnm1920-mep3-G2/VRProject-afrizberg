@@ -1,8 +1,11 @@
 # Template Repository for Unity3D version 2019.1.14f1
 
+### [Dokumentation](Documents/AfrizbergDokumentationMTIN)
+
 ### Project description: 
 
-Ein VR Spiel in dem man Laender zuordnen muss. 
+Ein VR Spiel in dem man die Erde retten muss
+
 #### Beschreibung des Spiels: 
 Man startet in einer großen Halle. In der dieser Halle befindet sich ein schwebender Globus, der die Erde darstellt. In der Halle befinden sich vier Türen. Neben den Türen steht jeweils eine Aussage, doch nur eine davon ist richtig! Wählt man die richtige Türe, kann man den Weg fortsetzten. Geht man jedoch durch die falsche Türe gibt es kein Zurück mehr und man hat verloren. 
 Ziel ist es auch durch die zweite Entscheidung der Türen zu kommen und am Ende den Virus, mit Blöcken, von einer Kapsel hinunter zu schießen. Schafft man es, hat man gewonnen! 
