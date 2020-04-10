@@ -4,10 +4,9 @@
 
 Ein VR Spiel in dem man Laender zuordnen muss. 
 #### Beschreibung des Spiels: 
-Ein großer Raum, in dem sich ein schwebender Globus befindet.
-Der Globus dreht sich ganz langsam um sich selbst. Auf einer der weißen Wände erscheint ein Land in Form eines Wortes. Z.B Deutschland, Sri Lanka, Brasilien.
-Es können alle möglichen Länder der Welt vorkommen. Man muss dann den richtigen Ort finden. Dazu zielt man mit einem Strahl irgendwo auf den Globus. Bleibt man mindestens drei Sekunden auf einem Wort stehen, so wird die Antwort eingeloggt. Die Wände scheinen dann bei korrekter Antwort in grün und bei inkorrekter Antwort in rot auf. Wenn man den Ort richtig bestimmt hat, kommt man zum nächsten Begriff. Man kann den Globus auch mit dem anderen Controller in die Hand nehmen, ihn anschauen und ihn wo anders wieder absetzen.
-Man kann sich im Raum rund um den Globus teleportieren.
+Man startet in einer großen Halle. In der dieser Halle befindet sich ein schwebender Globus, der die Erde darstellt. In der Halle befinden sich vier Türen. Neben den Türen steht jeweils eine Aussage, doch nur eine davon ist richtig! Wählt man die richtige Türe, kann man den Weg fortsetzten. Geht man jedoch durch die falsche Türe gibt es kein Zurück mehr und man hat verloren. 
+Ziel ist es auch durch die zweite Entscheidung der Türen zu kommen und am Ende den Virus, mit Blöcken, von einer Kapsel hinunter zu schießen. Schafft man es, hat man gewonnen! 
+Im ersten Raum ist es sehr dunkel, weshalb man hier eine Taschenlampe zur Verfügung
 
 ### Development platform: 
 Unity 20191.14f1
